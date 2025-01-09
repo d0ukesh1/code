@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+
+PyQt6
+openpyxl
+pyinstaller
+KlAkOAPI-13.tar.gz
